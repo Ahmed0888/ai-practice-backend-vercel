@@ -69,10 +69,10 @@
 // export default app;
 
 
-const express = require("express");
-const serverless = require("serverless-http");
-const cors = require("cors");
-const fileUpload = require("express-fileupload");
+// const express = require("express");
+// const serverless = require("serverless-http");
+// const cors = require("cors");
+// const fileUpload = require("express-fileupload");
 
 // const dbCon = require("./db/db.connection");
 // const router = require("./Router/route");
